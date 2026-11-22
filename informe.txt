@@ -1,1 +1,2 @@
 Informe inicial creado por A.
+Informe actualizado por B sin conocer cambios remotos.
